@@ -7,7 +7,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.dictionary.MySample</string>
 	<key>CFBundleName</key>
-	<string>MyDictionary</string>
+	<string>Kevin Chau's German-English Dictionary </string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryCopyright</key>
@@ -17,9 +17,9 @@
 	<key>DCSDictionaryFrontMatterReferenceID</key>
 	<string>front_back_matter</string>
 	<key>DCSDictionaryPrefsHTML</key>
-	<string>MyDictionary_prefs.html</string>
+	<string>MyGermanEnglishDictionary_prefs.html</string>
 	<key>DCSDictionaryXSL</key>
-	<string>MyDictionary.xsl</string>
+	<string>MyGermanEnglishDictionary.xsl</string>
 	<key>DCSDictionaryDefaultPrefs</key>
 	<dict>
 		<key>pronunciation</key>
