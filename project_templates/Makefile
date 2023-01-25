@@ -8,9 +8,9 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"My Dictionary"
-DICT_SRC_PATH		=	MyDictionary.xml
-CSS_PATH		=	MyDictionary.css
+DICT_NAME		=	"Kevin Chau's German-English Dictionary"
+DICT_SRC_PATH		=	GermanEnglishDictionary.xml
+CSS_PATH		=	GermanEnglishDictionary.css
 PLIST_PATH		=	MyInfo.plist
 
 DICT_BUILD_OPTS		=
