@@ -1,7 +1,0 @@
-dictionary application	32	0	Dictionary application			
-make	319	0	make			
-makes	319	0	makes			make
-made	319	0	made (make)			make
-making	319	4	making			make
-make it	319	1	make it	xpointer(//*[@id='make_it'])		make
-make up one's mind	803	1	make up one's mind			
