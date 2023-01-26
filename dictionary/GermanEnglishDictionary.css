@@ -26,6 +26,7 @@ example {
 	display: block;
 	font-style: italic;
 	color: gray;
+	font-weight: lighter;
 }
 
 grammar {
