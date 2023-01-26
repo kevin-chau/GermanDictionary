@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	This is a sample dictionary source file.
-	It can be built using Dictionary Development Kit.
--->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+
+<!-- M -->
 <d:entry id="Mädchen" d:title="Mädchen">
 	<d:index d:value="Mädchen"/>
 	<div d:priority="2"><h1>Mädchen</h1></div>
@@ -24,6 +22,7 @@
 		</ol>
 	</div>
 </d:entry>
+
 <d:entry id="front_back_matter" d:title="Front/Back Matter">
 	<h1><b>Kevin Chau's German-English Dictionary</b></h1>
 	<h2>Front/Back Matter</h2>
