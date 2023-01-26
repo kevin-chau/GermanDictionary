@@ -8,8 +8,6 @@
 		<div d:priority="2"><h1>Junge</h1></div>
 		<span class="syntax">
 			<span d:pr="US">|  ˈjʊŋə  |</span>
-			<span d:pr="US_IPA">|  ˈjʊŋə  |</span>
-			<span d:pr="UK_IPA">|  ˈjʊŋə  |</span>
 		</span>
 		<grammar>masculine noun <b>Pl. </b>Jungen</grammar>
 		<div>
@@ -23,6 +21,7 @@
 			</ol>
 		</div>
 	</d:entry>
+
 </letter>
 
 <!-- M -->
