@@ -2,48 +2,52 @@
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 
 <!-- J -->
-<d:entry id="Junge" d:title="Junge">
-	<d:index d:value="Junge"/>
-	<div d:priority="2"><h1>Junge</h1></div>
-	<span class="syntax">
-		<span d:pr="US">|  ˈjʊŋə  |</span>
-		<span d:pr="US_IPA">|  ˈjʊŋə  |</span>
-		<span d:pr="UK_IPA">|  ˈjʊŋə  |</span>
-	</span>
-	<grammar>masculine noun <b>Pl. </b>Jungen</grammar>
-	<div>
-		<ol>
-			<li>
-				Boy
-				<ul>
-					<li><example><de>der Junge</de>: the boy</example></li>
-				</ul>
-			</li>
-		</ol>
-	</div>
-</d:entry>
+<letter name="J">
+	<d:entry id="Junge" d:title="Junge">
+		<d:index d:value="Junge"/>
+		<div d:priority="2"><h1>Junge</h1></div>
+		<span class="syntax">
+			<span d:pr="US">|  ˈjʊŋə  |</span>
+			<span d:pr="US_IPA">|  ˈjʊŋə  |</span>
+			<span d:pr="UK_IPA">|  ˈjʊŋə  |</span>
+		</span>
+		<grammar>masculine noun <b>Pl. </b>Jungen</grammar>
+		<div>
+			<ol>
+				<li>
+					Boy
+					<ul>
+						<li><example><de>der Junge</de>: the boy</example></li>
+					</ul>
+				</li>
+			</ol>
+		</div>
+	</d:entry>
+</letter>
 
 <!-- M -->
-<d:entry id="Mädchen" d:title="Mädchen">
-	<d:index d:value="Mädchen"/>
-	<div d:priority="2"><h1>Mädchen</h1></div>
-	<span class="syntax">
-		<span d:pr="US">| ˈmɛːtçən |</span>
-		<span d:pr="US_IPA">| ˈmɛːtçən |</span>
-		<span d:pr="UK_IPA">| ˈmɛːtçən |</span>
-	</span>
-	<grammar>neuter noun <b>Pl. </b>Mädchen</grammar>
-	<div>
-		<ol>
-			<li>
-				Girl
-				<ul>
-					<li><example><de>ein schönes Mädchen</de>: a beautiful girl</example></li>
-				</ul>
-			</li>
-		</ol>
-	</div>
-</d:entry>
+<letter name="M">
+	<d:entry id="Mädchen" d:title="Mädchen">
+		<d:index d:value="Mädchen"/>
+		<div d:priority="2"><h1>Mädchen</h1></div>
+		<span class="syntax">
+			<span d:pr="US">| ˈmɛːtçən |</span>
+			<span d:pr="US_IPA">| ˈmɛːtçən |</span>
+			<span d:pr="UK_IPA">| ˈmɛːtçən |</span>
+		</span>
+		<grammar>neuter noun <b>Pl. </b>Mädchen</grammar>
+		<div>
+			<ol>
+				<li>
+					Girl
+					<ul>
+						<li><example><de>ein schönes Mädchen</de>: a beautiful girl</example></li>
+					</ul>
+				</li>
+			</ol>
+		</div>
+	</d:entry>
+</letter>
 
 <d:entry id="front_back_matter" d:title="Front/Back Matter">
 	<h1><b>Kevin Chau's German-English Dictionary</b></h1>
