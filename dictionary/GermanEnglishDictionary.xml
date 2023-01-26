@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 
+<!-- German-English -->
+
 <!-- J -->
 <letter name="J">
 	<d:entry id="Junge" d:title="Junge">
@@ -41,6 +43,32 @@
 					Girl
 					<ul>
 						<li><example><de>ein schönes Mädchen</de>: a beautiful girl</example></li>
+					</ul>
+				</li>
+			</ol>
+		</div>
+	</d:entry>
+</letter>
+
+<!-- English-German -->
+
+<!-- B -->
+<letter name="B">
+	<d:entry id="boy" d:title="boy">
+		<d:index d:value="boy"/>
+		<div d:priority="2"><h1>boy</h1></div>
+		<span class="syntax">
+			<span d:pr="US">| boi |</span>
+			<span d:pr="US_IPA">| boi |</span>
+			<span d:pr="UK_IPA">| boi |</span>
+		</span>
+		<grammar>noun</grammar>
+		<div>
+			<ol>
+				<li>
+					Junge
+					<ul>
+						<li><example><eng>the boy</eng>: der Junge</example></li>
 					</ul>
 				</li>
 			</ol>
