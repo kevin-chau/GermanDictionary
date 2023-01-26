@@ -21,3 +21,23 @@ span.column {
 	margin-bottom: 0.5em;
 	padding: 0.5em;
 }
+
+example {
+	display: block;
+	font-style: italic;
+	color: gray;
+}
+
+grammar {
+	display: block;
+	font-style: italic;
+	color: gray;
+}
+
+.syntax {
+	font-weight: lighter;
+}
+
+de {
+	font-weight: normal;
+}
