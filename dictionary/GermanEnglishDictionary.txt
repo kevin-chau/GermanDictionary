@@ -1,4 +1,11 @@
-This is a text file with a flat-structure German-English dictionary.
-It's mostly for a backlog / simple place to place definitions before formatting.
+Kevin Chau's German-English Dictionary (Plain Text)
 
-Begrüßungen Greetings
+German-English
+"Begrüßungen" Greetings
+"lernen" learn
+"leben" live
+"Grüß Gott!" Hello! (Bavaria, Austria)
+"ich heiße..." My name is...
+"Wie Geht's?" How's it going?
+
+English-German

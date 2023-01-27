@@ -66,8 +66,11 @@
 </letter>
 
 <!-- S -->
-<letter name="T">
+<letter name="S">
 	<d:entry id="Servus!"><d:index d:value="Servus!"/><div>Hello! / Bye! (Switzerland, southern Germany)</div></d:entry>
+
+	<d:entry id="sich vorstellen"><d:index d:value="sich vorstellen"/><h1>sich vorstellen</h1>
+		<p>Introduce yourself (oneself)</p></d:entry>
 </letter>
 
 <!-- T -->
@@ -101,6 +104,10 @@
 	</d:entry>
 </letter>
 
+
+
+
+<!-- Front / Back Matter-->
 <d:entry id="front_back_matter" d:title="Front/Back Matter">
 	<h1><b>Kevin Chau's German-English Dictionary</b></h1>
 	<h2>Front/Back Matter</h2>
@@ -125,4 +132,28 @@
 	</div>
 	<br/>
 </d:entry>
+
+
+<!-- UNSORTED -->
+<d:entry id="einander"><d:index d:value="einander"/><h1>einander</h1>
+	<p>each other / one another</p></d:entry>
+<d:entry id="sehr"><d:index d:value="sehr"/><h1>sehr</h1>
+	<p>very</p></d:entry>
+<d:entry id="kennen"><d:index d:value="kennen"/><h1>kennen</h1>
+	<p>know</p></d:entry>
+<d:entry id="lernen"><d:index d:value="lernen"/><h1>lernen</h1>
+	<p>learn</p></d:entry>
+<d:entry id="leben"><d:index d:value="leben"/>
+	<p>live</p></d:entry>
+<d:entry id="blume"><d:index d:value="blume"/><h1>blume</h1>
+	<p>flower. Pl. blumen</p></d:entry>
+<d:entry id="Tag"><d:index d:value="Tag"/>
+	<p>day</p></d:entry>
+<d:entry id="Apfel"><d:index d:value="Apfel"/>
+	<p>apple</p></d:entry>
+
+
+<d:entry id="0"><d:index d:value="0"/>
+	<p>0</p></d:entry>
+
 </d:dictionary>
