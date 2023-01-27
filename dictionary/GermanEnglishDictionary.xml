@@ -2,6 +2,21 @@
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 
 <!-- German-English -->
+<!-- B -->
+<letter name="B">
+	<d:entry id="Begrüßungen">
+		<d:index d:value="Begrüßungen"/>
+		<div>Greetings</div>
+	</d:entry>
+	
+	<d:entry id="Bis bald!">
+		<d:index d:value="Bis bald!"/>
+		<div>See you soon!</div>
+	</d:entry>
+	
+	<d:entry id="Bis später!"><d:index d:value="Bis später!"/><div>See you later!</div></d:entry>
+
+</letter>
 
 <!-- J -->
 <letter name="J">
@@ -48,6 +63,16 @@
 			</ol>
 		</div>
 	</d:entry>
+</letter>
+
+<!-- S -->
+<letter name="T">
+	<d:entry id="Servus!"><d:index d:value="Servus!"/><div>Hello! / Bye! (Switzerland, southern Germany)</div></d:entry>
+</letter>
+
+<!-- T -->
+<letter name="T">
+	<d:entry id="Tschüs!"><d:index d:value="Tschüs!"/><div>Bye!</div></d:entry>
 </letter>
 
 <!-- English-German -->
