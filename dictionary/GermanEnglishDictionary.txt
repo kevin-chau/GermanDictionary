@@ -1,0 +1,4 @@
+This is a text file with a flat-structure German-English dictionary.
+It's mostly for a backlog / simple place to place definitions before formatting.
+
+Begrüßungen Greetings
