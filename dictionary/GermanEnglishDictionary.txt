@@ -10,6 +10,14 @@ German-English
 "Hemd" Shirt. n.
 "Tisch" table. m.
 "Tür" Door. f.
+"Was machen Sie" What you do
+"Diese" This
+"Woche" week
+"folgendes" following
+"Querverweis" Cross-reference
+"Sein" [zain] be. intransitive verb. irregular.
+"nett" nice
+"groß" tall
 
 
 
