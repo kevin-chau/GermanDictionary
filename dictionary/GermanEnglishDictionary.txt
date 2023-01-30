@@ -2,24 +2,24 @@ Kevin Chau's German-English Dictionary (Plain Text)
 
 German-English
 "Begrüßungen" Greetings
-"lernen" learn
-"leben" live
+"Diese" This
+"folgendes" following
+"groß" tall
 "Grüß Gott!" Hello! (Bavaria, Austria)
-"ich heiße..." My name is...
-"Wie Geht's?" How's it going?
 "Hemd" Shirt. n.
+"ich heiße..." My name is...
+"klein" small
+"leben" live
+"lernen" learn
+"nett" nice
+"neu" new
+"Querverweis" Cross-reference
+"Sein" [zain] be. intransitive verb. irregular.
 "Tisch" table. m.
 "Tür" Door. f.
 "Was machen Sie" What you do
-"Diese" This
+"Wie Geht's?" How's it going?
 "Woche" week
-"folgendes" following
-"Querverweis" Cross-reference
-"Sein" [zain] be. intransitive verb. irregular.
-"nett" nice
-"groß" tall
-
-
 
 
 English-German
