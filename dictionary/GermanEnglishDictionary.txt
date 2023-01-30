@@ -1,111 +1,110 @@
 Kevin Chau's German-English Dictionary (Plain Text)
 
 German-English
+"Abend" evening. Pl. Abende
+"Alles klar?" Is everything OK?
+"alt" old
+"Angenehm" Pleased to meet you.
+"Auf Wiedersehen" Good-bye
 "Begrüßungen" Greetings
+"Bis bald" See you soon
+"Bis dann" See you later
+"Bis gleich" See you soon
+"Bis morgen" See you tomorrow
+"Bis später" See you later
+"Bitte." Please / You're welcome
+"bleiben" to stay, to remain
+"da" there
+"Danke" Thank you.
+"Das ist..." This is...
+"Das sind" These are...
+"das" the. n.
+"der" the. m.
+"die" the. f. pl.
 "Diese" This
+"dort" there
+"du" you
+"ein" a/an. m. n.
+"eine" a/an. f.
+"Entschuldigen Sie" Excuse me (form.)
+"Entschuldigung" Excuse me.
+"er" he/it
+"Es geht" so-so.
+"Es tut mir leid" I'm sorry.
+"es" it
 "folgendes" following
+"Frau" Mrs., Ms.
+"Frau" woman. die Frau, die Frauen.
+"Freund" friend. der Freund, die Freunde, die Freundin, die Freundinnen
+"Freut mich" Pleased to meet you.
+"Genitiv" gentive case.
+"Gern geschehen" My pleasure
 "groß" tall
 "Grüß Gott!" Hello! (Bavaria, Austria)
+"Gute Nacht" Good night. (goodbye)
+"Guten Abend" Good evening.
+"Guten Morgen" Good morning.
+"Guten Tag." Hello.
+"Hallo." Hello.
+"Hausaufgabe" (piece of) homework. singular. f. Pl. die Hausaufgaben.
 "Hemd" Shirt. n.
+"Herr" Mr.
+"hier" here
+"Höflichkeit" politeness / courtesy
 "ich heiße..." My name is...
+"Ich heiße..." My name is...
+"ich" I
+"ihr" you
+"interessant" interesting
+"ja" yes
+"Junge" boy. der Junge, die Jungen
 "klein" small
 "leben" live
 "lernen" learn
-"nett" nice
-"neu" [nɔy] new
-"Querverweis" Cross-reference
-"Sein" [zain] be. intransitive verb. irregular.
-"Tisch" table. m.
-"Tür" Door. f.
-"Was machen Sie" What you do
-"Wie Geht's?" How's it going?
-"Woche" week
-"Professorin" professor. f.
-"Genitiv" gentive case.
-"alt" old
-"interessant" interesting
-"Hausaufgabe" (piece of) homework. singular. f. Pl. die Hausaufgaben.
-"Höflichkeit" politeness / courtesy
-"Guten Tag." Hello.
-"Hallo." Hello.
-"Guten Morgen" Good morning.
-"Guten Abend" Good evening.
-"Gute Nacht" Good night. (goodbye)
-"Abend" evening. Pl. Abende
-"Bis bald" See you soon
-"Bis gleich" See you soon
-"Bis dann" See you later
-"Bis später" See you later
-"Bis morgen" See you tomorrow
-"Auf Wiedersehen" Good-bye
-"Schönen Tag noch!" Have a nice day!
-"Tschüss" Bye
-"Alles klar?" Is everything OK?
-"Wie geht's dir?" How are you? (inf.)
-"Wie geht es Ihnen?" How are you? (form.)
-"Prima" Great.
-"Sehr gut" Very well.
-"Ziemlich gut" fine.
-"Und dir?" And you? (inf.)
-"Und Ihnen?" And you? (form.)
-"Mir auch." Me, too.
-"Es geht" so-so.
-"Nicht schlecht" Not bad.
-"schlecht" bad
-"Mir geht's (sehr) gut." I'm (very) well.
-"Mir geht's nicht (so) gut." I'm not (so) well.
-"orte" place
-"Danke" Thank you.
-"Vielen Dank" Thank you very much.
-"Bitte." Please / You're welcome
-"Gern geschehen" My pleasure
-"Entschuldigung" Excuse me.
-"Entschuldigen Sie" Excuse me (form.)
-"Es tut mir leid" I'm sorry.
-"ja" yes
-"nein" no
-"wo?" where?
-"hier" here
-"da" there
-"dort" there
-"Personen" persons / people
-"Frau" woman. die Frau, die Frauen.
-"Freund" friend. der Freund, die Freunde, die Freundin, die Freundinnen
-"Junge" boy. der Junge, die Jungen
 "Mâdchen" girl. das Mädchen, die Mädchen
 "Mann" man. der Mann, die Männer
-"Herr" Mr.
-"Frau" Mrs., Ms.
-"sich vorstellen" introductions. introduce oneself/yourself
-"Wie heißt du?" What is your name? (inf.)
-"Wie heißen Sie?" What is your name? (form.)
-"Und du?" And you? (inf.)
-"Und Sie? And you? (form.)
-"Das ist..." This is...
-"Das sind" These are...
-"Ich heiße..." My name is...
-"Freut mich" Pleased to meet you.
-"Angenehm" Pleased to meet you.
+"Mir auch." Me, too.
+"Mir geht's (sehr) gut." I'm (very) well.
+"Mir geht's nicht (so) gut." I'm not (so) well.
+"nein" no
+"nett" nice
+"neu" [nɔy] new
+"Nicht schlecht" Not bad.
+"orte" place
+"Personen" persons / people
+"Prima" Great.
+"Professorin" professor. f.
+"Querverweis" Cross-reference
+"schlecht" bad
 "Schön dich kennen zu lernen" Nice to meet you. (inf.)
 "Schön Sie kennen zu lernen" Nice to meet you. (form.)
-"ich" I
-"du" you
-"er" he/it
-"sie" she/it
-"es" it
-"wir" we
-"ihr" you
-"Sie" you
-"sie" they
-"bleiben" to stay, to remain
+"Schönen Tag noch!" Have a nice day!
+"Sehr gut" Very well.
+"Sein" [zain] be. intransitive verb. irregular.
 "sein" to be
+"sich vorstellen" introductions. introduce oneself/yourself
+"sie" she/it
+"sie" they
+"Sie" you
+"Tisch" table. m.
+"Tschüss" Bye
+"Tür" Door. f.
+"Und dir?" And you? (inf.)
+"Und du?" And you? (inf.)
+"Und Ihnen?" And you? (form.)
+"Und Sie? And you? (form.)
+"Vielen Dank" Thank you very much.
+"Was machen Sie" What you do
 "werden" to become
-"der" the. m.
-"die" the. f. pl.
-"das" the. n.
-"eine" a/an. f.
-"ein" a/an. m. n.
-
+"Wie geht es Ihnen?" How are you? (form.)
+"Wie geht's dir?" How are you? (inf.)
+"Wie Geht's?" How's it going?
+"Wie heißen Sie?" What is your name? (form.)
+"Wie heißt du?" What is your name? (inf.)
+"wir" we
+"wo?" where?
+"Woche" week
+"Ziemlich gut" fine.
 
 
 
