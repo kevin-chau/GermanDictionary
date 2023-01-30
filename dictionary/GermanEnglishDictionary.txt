@@ -12,7 +12,7 @@ German-English
 "leben" live
 "lernen" learn
 "nett" nice
-"neu" new
+"neu" [nɔy] new
 "Querverweis" Cross-reference
 "Sein" [zain] be. intransitive verb. irregular.
 "Tisch" table. m.
@@ -20,6 +20,12 @@ German-English
 "Was machen Sie" What you do
 "Wie Geht's?" How's it going?
 "Woche" week
+"Professorin" professor. f.
+"Genitiv" gentive case.
+"alt" old
+"interessant" interesting
+"Hausaufgabe" (piece of) homework. singular. f. Pl. die Hausaufgaben.
+
 
 
 English-German
