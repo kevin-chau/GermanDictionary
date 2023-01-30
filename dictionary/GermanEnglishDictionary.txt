@@ -25,6 +25,90 @@ German-English
 "alt" old
 "interessant" interesting
 "Hausaufgabe" (piece of) homework. singular. f. Pl. die Hausaufgaben.
+"Höflichkeit" politeness / courtesy
+"Guten Tag." Hello.
+"Hallo." Hello.
+"Guten Morgen" Good morning.
+"Guten Abend" Good evening.
+"Gute Nacht" Good night. (goodbye)
+"Abend" evening. Pl. Abende
+"Bis bald" See you soon
+"Bis gleich" See you soon
+"Bis dann" See you later
+"Bis später" See you later
+"Bis morgen" See you tomorrow
+"Auf Wiedersehen" Good-bye
+"Schönen Tag noch!" Have a nice day!
+"Tschüss" Bye
+"Alles klar?" Is everything OK?
+"Wie geht's dir?" How are you? (inf.)
+"Wie geht es Ihnen?" How are you? (form.)
+"Prima" Great.
+"Sehr gut" Very well.
+"Ziemlich gut" fine.
+"Und dir?" And you? (inf.)
+"Und Ihnen?" And you? (form.)
+"Mir auch." Me, too.
+"Es geht" so-so.
+"Nicht schlecht" Not bad.
+"schlecht" bad
+"Mir geht's (sehr) gut." I'm (very) well.
+"Mir geht's nicht (so) gut." I'm not (so) well.
+"orte" place
+"Danke" Thank you.
+"Vielen Dank" Thank you very much.
+"Bitte." Please / You're welcome
+"Gern geschehen" My pleasure
+"Entschuldigung" Excuse me.
+"Entschuldigen Sie" Excuse me (form.)
+"Es tut mir leid" I'm sorry.
+"ja" yes
+"nein" no
+"wo?" where?
+"hier" here
+"da" there
+"dort" there
+"Personen" persons / people
+"Frau" woman. die Frau, die Frauen.
+"Freund" friend. der Freund, die Freunde, die Freundin, die Freundinnen
+"Junge" boy. der Junge, die Jungen
+"Mâdchen" girl. das Mädchen, die Mädchen
+"Mann" man. der Mann, die Männer
+"Herr" Mr.
+"Frau" Mrs., Ms.
+"sich vorstellen" introductions. introduce oneself/yourself
+"Wie heißt du?" What is your name? (inf.)
+"Wie heißen Sie?" What is your name? (form.)
+"Und du?" And you? (inf.)
+"Und Sie? And you? (form.)
+"Das ist..." This is...
+"Das sind" These are...
+"Ich heiße..." My name is...
+"Freut mich" Pleased to meet you.
+"Angenehm" Pleased to meet you.
+"Schön dich kennen zu lernen" Nice to meet you. (inf.)
+"Schön Sie kennen zu lernen" Nice to meet you. (form.)
+"ich" I
+"du" you
+"er" he/it
+"sie" she/it
+"es" it
+"wir" we
+"ihr" you
+"Sie" you
+"sie" they
+"bleiben" to stay, to remain
+"sein" to be
+"werden" to become
+"der" the. m.
+"die" the. f. pl.
+"das" the. n.
+"eine" a/an. f.
+"ein" a/an. m. n.
+
+
+
+
 
 
 
