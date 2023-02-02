@@ -106,7 +106,19 @@ German-English
 "Woche" week
 "Ziemlich gut" fine.
 
-
+"wiederholung" repetition
+"Schüler" schoolboy, pupil, schoolchildren. Young student.
+"aufgepasst" look out, watch out!
+"Sätz" sentence. Pl. Sätze
+"allein" alone
+"müde" tired
+"gigantisch" gigantic. Huge.
+"verliebt" in love.
+"auch" also, as well, too.
+"sportlich" sporty. sportsmanlike. athletic.
+"musikalisch" musical (adjective)
+"romantisch" romantic.
+"Klassenzimmer" classroom
 
 
 
