@@ -86,7 +86,7 @@ German-English
 "sie" she/it
 "sie" they
 "Sie" you
-"Tisch" table. m.
+"Tisch" table. m. Pl. Tische
 "Tschüss" Bye
 "Tür" Door. f.
 "Und dir?" And you? (inf.)
@@ -120,7 +120,14 @@ German-English
 "romantisch" romantic.
 "Klassenzimmer" classroom
 "hauptsächlich" mainly, principally, chiefly
-
+"Endung" ending (linguistics)
+"Brot" bread. n. Pl. Brote
+"Kleid" dress. n. Pl. Kleider
+"Uhr" clock.
+"Mantel" overcoat
+"Koffer" suitcase
+"immer" always
+"Ei" egg
 
 
 
