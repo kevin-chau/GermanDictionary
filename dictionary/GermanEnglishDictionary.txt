@@ -119,6 +119,7 @@ German-English
 "musikalisch" musical (adjective)
 "romantisch" romantic.
 "Klassenzimmer" classroom
+"hauptsächlich" mainly, principally, chiefly
 
 
 
