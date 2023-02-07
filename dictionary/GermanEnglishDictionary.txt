@@ -130,7 +130,10 @@ German-English
 "Ei" egg
 "Sein oder Nichtsein" To be or not to be.
 "Ich denke, also bin ich." I think, therefore I am.
-
+"später" later
+"Noch" still
+"Weg" gone, away, lost
+"Übungen" exercises
 
 
 English-German
