@@ -134,6 +134,26 @@ German-English
 "Noch" still
 "Weg" gone, away, lost
 "Übungen" exercises
+"Was passt nicht?" What doesn't fit?
+"Schulzeit" schooldays
+"Weitere Übung" more practice, further exercises
+"Jetzt sind Sie dran" Now it's your turn
+"Ergänzen Sie" Complete it.
+
+"Fahne" flag. f. Pl. Fahnen
+"Wen" whom. pronoun
+"doof" adjective. stupid, dumb, dopey
+"Mut" courage. m.
+"diese" these
+"Pfanne" pan (frying)
+"wenn" if
+"in" in
+"Sonne" sun. f.
+"Ding" thing. pl. Dinge
+"Notizen" note
+"Note" grade
+"nur" only
+"Versuchen Sie es!" Try it
 
 
 English-German
