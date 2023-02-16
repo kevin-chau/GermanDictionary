@@ -75,7 +75,7 @@ German-English
 "Prima" Great.
 "Professorin" professor. f.
 "Querverweis" Cross-reference
-"schlecht" bad
+"schlecht" bad, poor
 "Schön dich kennen zu lernen" Nice to meet you. (inf.)
 "Schön Sie kennen zu lernen" Nice to meet you. (form.)
 "Schönen Tag noch!" Have a nice day!
@@ -154,6 +154,59 @@ German-English
 "Note" grade
 "nur" only
 "Versuchen Sie es!" Try it
+
+"Jetzt" Now.
+"Kurs" course. Pl. Kurse. m.
+"gleich" equal. same.
+
+"ziemlich" quite fairly, pretty.
+
+"sehen" to see.
+"Telefonnummern" telephone number
+
+"Zahlen" pay
+"Welche Zahl?" which number?
+"Brauchen" need.
+
+"Seite" page
+"beantworten" answer, reply, respond to
+
+
+"Ich habe keine Zeit." I don't have any time.
+"Wie alt bist du?" How old are you?
+"Wo vist due geboren?" Where were you born?
+"Sprich bitte langsamer." Please speak slower.
+"Sprich bitte lauter." Please speak louder.
+"Tue mir Leid." I'm sorry.
+"Macht nichts." It doesn't matter.
+"Was machst du am Wochenende?" What are you doing on the weekend?
+"Ich mag das nicht." I don't like that.
+"Ja, bitte?" Yes, please?
+"Nein." no.
+"Wie viel kostet das?" How much does that cost?
+"Die Rechnung bitte." The bill please.
+"Ich würde gerne bezahlen." I would like to pay.
+"Könnte ich um die Rechnung bitten?" Could I have the bill please?
+"Was für Musick hörst du?" What type of music do you listen to?
+"Gut." Good.
+"Schlect." Bad.
+"Die Sonne scheint." The sun is shining.
+"Es regnet heute." It's raining today.
+"Wo willst du hin?" Where do you want to go?
+"Kannst du mir den Weg beschreiben?" Can you describe the way to me?
+"Es ist sehr weit weg." It is a long way away.
+"Muss ich links oder rechts abbiegen?" Do I have to turn left or right?
+"Geh nach rechts." Go right.
+"Geh nach links." Go left.
+"Geh geradeaus." Go straight on.
+"Bitte warte auch mich." Please wait for me.
+"Ich hätte gerne..." I would like... 
+"Haben Sie...?" Do you have?
+
+"Taschenrechner" (pocket) calculator. m.
+
+
+
 
 
 English-German
