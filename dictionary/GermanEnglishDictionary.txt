@@ -198,7 +198,12 @@ German-English
 "Ziemlich gut" fine.
 "ziemlich" quite fairly, pretty.
 
-
+"Zahl" number. pl. Zahlen
+"Gemüse" vegetables
+"Einladung" invitation
+"Geburtstag" Birthday
+"Geschenk" present, gift. n.
+"etwas" something
 
 
 
