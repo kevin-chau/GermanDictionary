@@ -82,7 +82,7 @@ German-English
 "Höflichkeit" politeness / courtesy
 "Ich denke, also bin ich." I think, therefore I am.
 "Ich habe keine Zeit." I don't have any time.
-"Ich hätte gerne..." I would like... 
+"Ich hätte gerne..." I would like...
 "ich heiße..." My name is...
 "Ich heiße..." My name is...
 "Ich mag das nicht." I don't like that.
@@ -204,7 +204,18 @@ German-English
 "Geburtstag" Birthday
 "Geschenk" present, gift. n.
 "etwas" something
-
+"Schildkröte" Turtle. Tortoise.
+"ganz langsam" very slowly
+"Eichhörnchen" squirrel
+"Nuss" nut. f. pl. Nüsse.
+"Spaziergang" walk/stroll
+"Bauernhof" farm
+"heulen" howl (Wolf).
+"Faultier" sloth. n.
+"Pferd" Horse. n. pl. Pferde.
+"Ente" duck. f. pl. Enten.
+"schnell" adj. quick.
+"Geldautomaten" cash dispenser. ATM. m.
 
 
 English-German
