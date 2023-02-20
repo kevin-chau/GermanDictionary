@@ -125,7 +125,7 @@ German-English
 "Noch" still
 "Note" grade
 "Notizen" note
-"nur" only
+"nur" only, only just
 "orte" place
 "Personen" persons / people
 "Pfanne" pan (frying)
@@ -216,6 +216,34 @@ German-English
 "Ente" duck. f. pl. Enten.
 "schnell" adj. quick.
 "Geldautomaten" cash dispenser. ATM. m.
+
+"Länder" countries.
+"Einwohner" inhabitants
+"Muttersprachler" native speakers
+"Hauptstädte" capitals
+"Menschen" people
+"deshalb" because of that, for that reason
+"fast" adv. nearly
+"Berg" mountain
+"Messer" knives
+"natürlich" of course, naturally
+"jeder" every, each (person)
+"niemand" nobody
+"mehr...als" more...than
+"fast genauso viel" nearly as much as, almost as much as
+"nämlich" namely, in fact
+"Person" person.
+"Mauer" wall
+"Grenze" border
+"zwischen" between
+"umgibt" surrounds
+"Insel" island
+"Kalten Krieges" cold war.
+"Beobachtungstürme" watchtowers.
+"Kaufleuten" merchants
+"Jahrhunderts" century
+"Mitte" middle
+"heutiges" present day
 
 
 English-German
