@@ -245,5 +245,14 @@ German-English
 "Mitte" middle
 "heutiges" present day
 
+Woche 6
+"einmal pro Woche" once a week.
+"anziehen" to put on.
+"Pulli" pullover sweater, sweatshirt, hoodie. m. pl. Pullis
+"rufen" to call
+"Übung" exercise. f. pl. Übungen.
+"Los geht's" Let's go.
+"üben" practice, rehearse
+
 
 English-German
