@@ -267,10 +267,6 @@ Woche 6
 "nachmittags" in the afternoon, this afternoon
 "Ach" oh (exclamation)
 "nach"
-
-
-English-German
-
 Woche 7 (MacBook Air)
 "kochen" to cook
 "wandern" to hike. to travel. to wander
@@ -284,3 +280,5 @@ Woche 7 (MacBook Air)
 "bestẹllen" to order.
 "ohne" without
 "Trinkgeld" tip
+
+English-German
