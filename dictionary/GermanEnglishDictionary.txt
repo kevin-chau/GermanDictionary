@@ -289,5 +289,14 @@ Woche 7 (MacBook Air)
 "Unabhängigkeitstag" Independence Day.
 "Weihnachten" Christmas
 "Einheit" Unity
+"Putzfrau" cleaner.
+"besuchen" visit (a person), to go see
+"Schach" chess. n.
+"wortschatz" vocabulary
+"Assoziationen" associations
+"wissenschaft" science
+"Mittagspause" lunch hour, lunch break, mid-day break
+"Leider" adv. unfortunately
+
 
 English-German
