@@ -306,6 +306,10 @@ Woche 9 and 2B
 "gebiet" region, area. n. Skigebiet
 "Arbeitsplätze" jobs. workplaces
 "Lesen" to read
-
+"empfahlen" to recommend
+"Gepäck" luggage
+"Kreuzung" junction, crossroads, traffic light
+"Freiheit" freedom.
+"betnutzen" use, take (car, train, taxi)
 
 English-German
