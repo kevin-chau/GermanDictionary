@@ -319,4 +319,9 @@ Woche 10
 "besonders" particularly
 "Noch nicht" not yet
 
+Woche 11
+"Quelle" source
+"Berühmt" famous (adj)
+"Mauer" wall
+
 English-German
