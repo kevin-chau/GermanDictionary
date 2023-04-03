@@ -323,5 +323,9 @@ Woche 11
 "Quelle" source
 "Berühmt" famous (adj)
 "Mauer" wall
+"vielleicht" maybe
+"aufwachen" wake up
+"ausschlafen" to sleep late
+"Ferien" vacation
 
 English-German
